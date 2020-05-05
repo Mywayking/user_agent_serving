@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Device Information</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500">
+    <link rel="stylesheet" href="{{ url_for('static',filename='user_agent/bootstrap/css/bootstrap.min.css',_external=False) }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='user_agent/css/form-elements.css',_external=False) }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='user_agent/css/style.css',_external=False) }}">
+
+    <!--<link rel="stylesheet" href="{{ url_for('static',filename='css/bootstrap-theme.css') }}"/>-->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Favicon and touch icons -->
+    <link rel="shortcut icon" href="{{ url_for('static',filename='user_agent/ico/favicon.png',_external=False) }}">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ url_for('static',filename='user_agent/ico/apple-touch-icon-144-precomposed.png',_external=False) }}">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"
+          href="{{ url_for('static',filename='user_agent/ico/apple-touch-icon-114-precomposed.png',_external=False) }}">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72"
+          href="{{ url_for('static',filename='user_agent/ico/apple-touch-icon-72-precomposed.png',_external=False) }}">
+    <link rel="apple-touch-icon-precomposed"
+          href="{{ url_for('static',filename='user_agent/ico/apple-touch-icon-57-precomposed.png',_external=False) }}">
+
+</head>
+
+<body>
+{% block content %}{% endblock %}
+<!-- Javascript -->
+<!--<script src="{{ url_for('static',filename='user_agent/js/jquery-1.11.1.min.js',_external=False) }}"></script>-->
+<!--<script src="{{ url_for('static',filename='user_agent/bootstrap/js/bootstrap.min.js',_external=False) }}"></script>-->
+<!--<script src="{{ url_for('static',filename='user_agent/js/jquery.backstretch.min.js',_external=False) }}"></script>-->
+<!--<script src="{{ url_for('static',filename='user_agent/js/scripts.js',_external=False) }}"></script>-->
+
+<!--[if lt IE 10]>
+<script src="{{ url_for('static',filename='user_agent/js/placeholder.js',_external=False) }}"></script>
+<![endif]-->
+</body>
+
+</html>

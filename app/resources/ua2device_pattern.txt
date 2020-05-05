@@ -1,0 +1,62 @@
+10Moons^10Moons Box^4^10MOONS BOX
+Apple^Ipad^3^IPAD
+Apple^Iphone^2^IPHONE|IPHONE
+Baofeng^Baofeng Tv^4^BAOFENG TV
+Bestsonny^Bestsonny^2^BESTSONNY
+Bifermobile^Bifermobile^2^BF
+Chnaghong^Changhong Tv^4^CHANGHONG TV
+Coolpad^Coolpad^0^COOLPAD
+Coolpad^Coolpad^2^COOLPAD
+Doov^Doov^2^DOOV
+Egreat^Egreat^4^EGREAT
+Eton^Eton^2^ETON
+Gionee^Gionee^2^GN9
+Goly^Goly^2^GOLY
+HTC^Htc^0^HTC
+Haier^Haier Tv^4^HAIER TV
+Himedia^Himedia Box^4^HIMEDIA BOX
+Hisense^Hisense^0^HISENSE
+Huawei^Huawei^0^HUAWEI
+Huawei^Huaweihonor^2^KIW
+Ideataba^Lenovo^3^LENOVO TABLET
+Ideatv^Lenovotv^4^17TV
+Ider^Ider^4^IDER
+Inphic^Inphic^4^INPHIC
+Jmgo^Jmgo^4^JMGO
+K-Touch^K-Touch^2^K-TOUCH
+Kiui^Kaiboer Kiui^4^KAIBOER KIUI
+Konka^Konka^4^KONKA
+Koobee^Koobee^2^KOOBEE
+LG^Lg^0^LG
+Leader^Haier Leader Tv^4^HAIER LEADER TV
+Leeco^Letv^4^LETV
+Lenovo^Lenovo Ideatab^2^IDEATABA
+Lenovo^Lenovo^0^LENOVO
+Lephone^Lephone^2^LEPHONE
+Lovme^Lovme^2^LOVME
+Mele^Mele^4^MELE
+Mibox^Mibox^4^MIBOX
+Mitv^Mitv^4^MITV
+Mooka^Haier Mooka Tv^4^HAIER MOOKA TV
+Oppo^Oppo^2^OPPO
+Pioneer^Pioneer Tv^4^PIONEER TV
+Pptv^Pptv^4^PPTV
+Pulier^Pulier Box^4^PULIER BOX
+Samsung^Samsung^0^SAMSUNG|SCH|SM-|GT-
+Sharp^Sharp Tv^4^SHARP TV
+Skyworth^Skyworth Tv^4^SKYWORTH TV
+Sony^Sony^0^SONY
+TCL^Tcl Tv^4^TCL TV
+Topbox^Topbox^4^TOPBOX
+Tshifi^Tshifi^4^TSHIFI
+Uoogou^Uoogou^2^UOOGOU
+Vivi^Vivi^2^VIVI
+Vivo^Vivo Xplay^2^VIVO XPLAY
+Vivo^Vivo^2^VIVO
+Vsoon^Vsoon^4^VSOON
+WTV^Whaley Tv^4^WHALEY TV
+Wasu^Wasu Tv^4^WASU TV
+Xiaomi^Hm Note^2^REDMI
+Xmate^Diyomate Tv^4^DIYOMATE TV
+ZTE^Zte^2^ZTE
+ZUK^Lenovo^2^LENOVOZUK

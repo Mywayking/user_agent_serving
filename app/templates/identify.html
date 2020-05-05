@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="top-content">
+
+    <!--<div class="inner-bg" style="background-color:#59c4af">-->
+    <div class="inner-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-sm-offset-2 text">
+                    <!--<a class="logo" href="index.html"></a>-->
+                    <h2><strong>User</strong> Agent</h2>
+                    <div class="description" style="color:#555">
+                        <p>{{user_agent}}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-dialog">
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <!--<h3 class="modal-title" id="modal-register-label">请告知一下您的手机型号：</h3>-->
+                        <!--<p>请告知一下您的手机型号：</p>-->
+                        <table class="table table-condensed">
+                            <caption>识别的设备型号信息如下：</caption>
+                            <thead>
+                            <tr>
+                                <th>品牌</th>
+                                <th>设备</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>{{output_data["brand"]}}</td>
+                                <td>{{output_data["model"]}}</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <!--<div class="modal-body">-->
+
+                    <!--<form role="form" action="{{ url_for('user_agent',_external=False) }}" method="post"-->
+                    <!--class="registration-form">-->
+                    <!--<input type="hidden" name="hidden_ua" value="{{user_agent}}"/>-->
+
+                    <!--<div class="form-group">-->
+                    <!--<label class="sr-only" for="form-first-name">brand</label>-->
+                    <!--<input type="text" name="brand" placeholder="如：vivo X20"-->
+                    <!--class="form-first-name form-control" id="form-first-name">-->
+                    <!--</div>-->
+                    <!--<button type="submit" class="btn">提交</button>-->
+                    <!--</form>-->
+
+                    <!--</div>-->
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+{% endblock %}
+
+
